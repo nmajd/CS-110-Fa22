@@ -1,4 +1,4 @@
-# Data 8 Public Materials for Fall 2020
+# Data 8 Public Materials for Fall 2020 test
 
 This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Fall 2020 semester.
 
